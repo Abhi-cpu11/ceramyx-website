@@ -2,9 +2,13 @@
 
 **A real business project where I got to put web development and marketing into practice.**
 
+**Role:** Founder | Website Development & Digital Marketing
+
+**Founded:** August 2026
+
 **Live website:** [ceramyxwpg.com](https://ceramyxwpg.com/)
 
-Ceramyx is an auto detailing business based in South Winnipeg. I helped start the business and worked on building our website and online presence.
+I founded Ceramyx, an auto detailing business based in South Winnipeg, and built its website and online presence. I later handed the website over to my brother.
 
 I wanted the website to make it easy for customers to understand our services, see examples of completed work, and request an assessment for their vehicle.
 
@@ -12,10 +16,10 @@ I wanted the website to make it easy for customers to understand our services, s
 
 - Helped build and improve the website's layout, content, and overall experience.
 - Worked on a five-step assessment form where customers can enter their vehicle details and request a quote.
-- Connected the customer inquiry process with backend services, including Supabase and Resend.
-- Worked with Cloudflare to connect our custom domain and support website security.
+- Worked on connecting the customer assessment form with supporting online services.
+- Worked with Cloudflare to connect our custom domain.
 - Created and managed Facebook and Instagram marketing to help bring attention to the business.
-- Helped generate interest from approximately 40 potential customers through our early marketing efforts.
+- Helped generate interest from approximately 60 potential customers through early marketing efforts.
 
 ## Website features
 
@@ -31,10 +35,9 @@ I wanted the website to make it easy for customers to understand our services, s
 | --- | --- |
 | ChatGPT Sites | Building, updating, and hosting the website |
 | React, TypeScript, and CSS | The website's interface and interactive features |
-| Supabase | Processing assessment requests and storing customer information |
-| Resend | Email notifications for assessment requests |
-| Cloudflare | Custom domain setup and website-related security services |
-| Cloudflare Turnstile | Protecting the assessment form from automated submissions |
+| Supabase | Backend integration |
+| Resend | Email integration |
+| Cloudflare | Custom domain setup |
 | Facebook and Instagram | Digital marketing and customer outreach |
 
 ## What I learned
