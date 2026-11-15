@@ -29,6 +29,20 @@ I wanted the website to make it easy for customers to understand our services, s
 - Form validation and spam protection.
 - Mobile-friendly layouts, frequently asked questions, and service information.
 
+## Website Screenshots
+
+### Homepage
+
+![Ceramyx homepage](HomePage.png)
+
+### Demonstration
+
+![Ceramyx demonstration section](DemonstrationSection.png)
+
+### Assessment Form
+
+![Ceramyx assessment form](Form.png)
+
 ## Technologies and tools
 
 | Tool | How I used it |
