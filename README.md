@@ -16,7 +16,7 @@ I wanted the website to make it easy for customers to understand our services, s
 
 - Helped build and improve the website's layout, content, and overall experience.
 - Worked on a five-step assessment form where customers can enter their vehicle details and request a quote.
-- Worked on connecting the customer assessment form with supporting online services.
+- Worked on integrating the customer assessment form with supporting website services.
 - Worked with Cloudflare to connect our custom domain.
 - Created and managed Facebook and Instagram marketing to help bring attention to the business.
 - Helped generate interest from approximately 60 potential customers through early marketing efforts.
@@ -35,8 +35,7 @@ I wanted the website to make it easy for customers to understand our services, s
 | --- | --- |
 | ChatGPT Sites | Building, updating, and hosting the website |
 | React, TypeScript, and CSS | The website's interface and interactive features |
-| Supabase | Backend integration |
-| Resend | Email integration |
+| Cloud services | Supporting the website's interactive features |
 | Cloudflare | Custom domain setup |
 | Facebook and Instagram | Digital marketing and customer outreach |
 
