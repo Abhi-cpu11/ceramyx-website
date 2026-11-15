@@ -8,7 +8,7 @@
 
 **Live website:** [ceramyxwpg.com](https://ceramyxwpg.com/)
 
-I founded Ceramyx, an auto detailing business based in South Winnipeg, and built its website and online presence. I later handed the website over to my brother.
+I founded Ceramyx, an auto detailing business based in South Winnipeg, and built its website and online presence.
 
 I wanted the website to make it easy for customers to understand our services, see examples of completed work, and request an assessment for their vehicle.
 
